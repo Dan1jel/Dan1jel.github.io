@@ -1,0 +1,44 @@
+body
+{ 
+	background-color: transparent; 
+	font-size: 10px; 
+	color: #ffffff; 
+	font-family: Arial, sans-serif, Helvetica, Verdana; 
+}
+ul#minitabs
+{ 
+	background-color: transparent; 
+	letter-spacing: 0px; 
+	color: #666666; 
+	border-bottom-width: 0px; 
+	list-style: none;margin: 0px;padding: 0px 0;
+  	text-align: center;white-space: nowrap
+}
+ul#minitabs li
+{
+	background-color: transparent; 
+	margin-left: 26px; 
+	margin-right: 26px; 
+	display: inline;
+	color: #666666; 
+}
+ul#minitabs a
+{
+	background-color: transparent; 
+	color: #666666; 
+	border-bottom-color: transparent;
+}
+ul#minitabs a:hover
+{ 
+	background-color: transparent; 
+	color: #cd0069;
+}
+.span
+{ 
+	background-color: transparent; 
+	margin-right: 2px; 
+	color: white; 
+	text-transform: none; 
+	font-variant: normal; font-family: Arial, Helvetica, Verdana, sans-serif; 
+	font-size: 15px; 
+}

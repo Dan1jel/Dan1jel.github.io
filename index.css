@@ -1,0 +1,115 @@
+body 
+{ 
+	color: #ffffff; 
+	background-color: transparent; 
+	background-repeat: repeat; 
+	background-image: url(img/pattern.png); 
+	background-attachment: fixed
+}
+
+p 
+{ 
+	background-color: transparent; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	font-size: 10px; 
+	color:white; 
+	text-decoration: none; 
+}
+
+.undertext 
+{ 
+	background-color: transparent; 
+	font-size: 10px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: white; 
+}
+
+.meny 
+{ 
+	background-color: transparent; 
+	font-size: 13px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: white; 
+}
+
+a:link 
+{ 
+	background-color: transparent; 
+	font-size: 13px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: white; 
+	text-decoration: none; 
+}
+
+a:visited 
+{ 
+	background-color: transparent; 
+	font-size: 13px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: white; 
+	text-decoration: none; 
+}
+
+a:hover 
+{ 
+	background-color: transparent; 
+	font-size: 13px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: #ff0083; 
+	text-decoration: none; 
+}
+
+a:active 
+{ 
+	background-color: transparent; 
+	color: #ff0083; 
+	font-size: 13px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	text-decoration: none; 
+}
+
+a.undertext:link 
+{ 
+	background-color: transparent; 
+	font-size: 10px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: white; 
+	text-decoration: none; 
+}
+
+a.undertext:visited 
+{ 
+	background-color: transparent; 
+	font-size: 10px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: white; 
+	text-decoration: none; 
+}
+
+a.undertext:hover 
+{ 
+	background-color: transparent; 
+	font-size: 10px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: #ff0083; 
+	text-decoration: none; 
+}
+
+a.undertext:active 
+{ 
+	background-color: transparent; 
+	color: #ff0083; 
+	letter-spacing: 1px; 
+	font-size: 10px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	text-decoration: none; 
+}
+
+table 
+{ 
+	color: #ffffff; 
+	background-color: transparent; 
+	background-image:url('img/body.png'); 
+	background-repeat:no-repeat; 
+	background-position:center center; 
+} 
