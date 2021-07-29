@@ -19,7 +19,7 @@ p
 .undertext 
 { 
 	background-color: transparent; 
-	font-size: 10px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	color: white; 
 }
@@ -27,7 +27,7 @@ p
 .meny 
 { 
 	background-color: transparent; 
-	font-size: 13px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	color: white; 
 }
@@ -35,7 +35,7 @@ p
 a:link 
 { 
 	background-color: transparent; 
-	font-size: 13px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	color: white; 
 	text-decoration: none; 
@@ -44,7 +44,7 @@ a:link
 a:visited 
 { 
 	background-color: transparent; 
-	font-size: 13px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	color: white; 
 	text-decoration: none; 
@@ -53,7 +53,7 @@ a:visited
 a:hover 
 { 
 	background-color: transparent; 
-	font-size: 13px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	color: #ff0083; 
 	text-decoration: none; 
@@ -63,7 +63,7 @@ a:active
 { 
 	background-color: transparent; 
 	color: #ff0083; 
-	font-size: 13px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	text-decoration: none; 
 }
@@ -71,7 +71,7 @@ a:active
 a.undertext:link 
 { 
 	background-color: transparent; 
-	font-size: 10px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	color: white; 
 	text-decoration: none; 
@@ -80,7 +80,7 @@ a.undertext:link
 a.undertext:visited 
 { 
 	background-color: transparent; 
-	font-size: 10px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	color: white; 
 	text-decoration: none; 
@@ -89,7 +89,7 @@ a.undertext:visited
 a.undertext:hover 
 { 
 	background-color: transparent; 
-	font-size: 10px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	color: #ff0083; 
 	text-decoration: none; 
@@ -100,7 +100,7 @@ a.undertext:active
 	background-color: transparent; 
 	color: #ff0083; 
 	letter-spacing: 1px; 
-	font-size: 10px; 
+	font-size: 12px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	text-decoration: none; 
 }
