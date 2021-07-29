@@ -12,7 +12,7 @@ ul#minitabs
 	color: #666666; 
 	border-bottom-width: 0px; 
 	list-style: none;margin: 0px;padding: 0px 0;
-  	text-align: center;white-space: nowrap
+  	text-align: center;white-space: nowrap;
 }
 ul#minitabs li
 {
@@ -27,6 +27,7 @@ ul#minitabs a
 	background-color: transparent; 
 	color: #666666; 
 	border-bottom-color: transparent;
+	font-size: 14px;
 }
 ul#minitabs a:hover
 { 
