@@ -66,6 +66,7 @@ a:active
 { 
 	font-weight: bold; 
 	color: #ff0083; 
+	letter-spacing: 1px; 
 	font-size: 15px; 
 	font-family: Helvetica, Verdana, Arial, sans-serif; 
 	text-decoration: none; 
