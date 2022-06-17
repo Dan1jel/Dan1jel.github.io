@@ -112,4 +112,40 @@ table
 	background-image:url('img/body.png'); 
 	background-repeat:no-repeat; 
 	background-position:center center; 
-} 
+}
+
+a.dbox:link
+{ 
+	background-color: transparent; 
+	font-size: 12px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: white; 
+	text-decoration: none; 
+}
+
+a.dbox:visited 
+{ 
+	background-color: transparent; 
+	font-size: 12px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: white; 
+	text-decoration: none; 
+}
+
+a.dbox:hover 
+{ 
+	background-color: transparent; 
+	font-size: 12px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	color: #f0f0f0; 
+	text-decoration: none; 
+}
+
+a.dbox:active 
+{ 
+	background-color: transparent; 
+	color: #f0f0f0; 
+	font-size: 12px; 
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	text-decoration: none; 
+}
