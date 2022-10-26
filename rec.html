@@ -1,9 +1,38 @@
-<figure>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+</head>
+<body>
 	<center>
+	<figure>
+		</br></br>
 		<figcaption><p style="font-family:verdana">Lost recording from 2003/11/22:</p></figcaption>
-			<audio id="audio" src="anders_voicemail_2003_11_22.mp3" controls></audio>
-				<a href="anders_voicemail_2003_11_22.mp3" >
-					<p style="font-family:verdana"><b>Download recording<b></p>
-				</a>
+		</br>
+		
+		<audio id="audio" src="anders_voicemail_2003_11_22.mp3" controls=""></audio>
+	</figure>
+		</br>
+	<a href="anders_voicemail_2003_11_22.mp3">
+		<button class="btn"><i class="fa fa-download"></i> Download</button></p>
+	</a>
 	</center>
-</figure>
+</body>
+</html>
